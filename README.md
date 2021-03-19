@@ -1,2 +1,8 @@
-# MortalKombat
-This is my first experience.
+# Mortal Kombat - учебный проект Glo Academy
+## Выполнил проект - Elizaveta
+### Технологии: 
+- HTML
+- CSS
+- Normalize
+- jQuery
+- Fancybox (jQuery)
